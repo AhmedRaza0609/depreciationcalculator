@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run scrabbleproj.py
+web: sh setup.sh && streamlit run accountscalc.py
